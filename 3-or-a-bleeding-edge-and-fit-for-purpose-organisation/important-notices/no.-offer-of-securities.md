@@ -1,0 +1,7 @@
+# No. Offer of Securities
+
+This Whitepaper does not constitute a prospectus or offer document of any sort and is not intended to constitute an offer of securities or a solicitation for investment in securities in any jurisdiction. No person is bound to enter into any contract or binding legal commitment and no cryptocurrency or other form of payment is to be accepted on the basis of all or any part of the White Paper. Any agreement in relation to any subscription of ZETRIX Coins is to be governed by the terms and conditions of a separate agreement and no other document. In the event of any inconsistencies between the terms and conditions of that agreement and the information in this White Paper, those terms and conditions shall prevail.
+
+Citizens, nationals, residents (tax or otherwise) and/or green card holders of each of the People’s Republic of China and the United States of America, or any other jurisdiction which prohibits the prohibits participation in the sale or the purchase or subscription of ZETRIX Coins or any such similar activity (hereinafter “Restricted Jurisdictions”) or any other Restricted Persons are not permitted to participate in the digital asset sale.
+
+The term “Restricted Persons” refers to any firm, company, partnership, trust, corporation, entity, government, state or agency of a state or any other incorporated or unincorporated body or association, association or partnership (whether or not having separate legal personality) that is established and/or lawfully existing under the laws of a Restricted Jurisdiction.

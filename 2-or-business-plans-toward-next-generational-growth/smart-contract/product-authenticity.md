@@ -1,0 +1,13 @@
+# Product Authenticity
+
+Verifying the authenticity of goods is becoming increasingly difficult. There are more counterfeit luxury goods today than ever before, and the quality of counterfeit goods are no longer visible to the untrained eye. Counterfeit goods that are indistinguishable from the original are now given the name “superfakes”.
+
+Superfakes are extremely damaging to the luxury goods industry. The buyers will be financially hurt as they bought a counterfeit product. The luxury goods company whose products are faked will also take a hit on its reputation. Counterfeit products are produced in questionable circumstances, sometimes even employing slave labour, and purchasing these products will create a feedback loop the further perpetuates the superfake industry. Not to mention, buying and selling counterfeit products are illegal in some countries.
+
+<figure><img src="https://lh5.googleusercontent.com/SkB7-ptDJ-L6z7pJrfPmSF0R1pK037J4NTCfPhOzwEcDXQ2iTovPEvacmjrA48MCT0L0QPLwIxV3eBaRnbJJ83QwIDdf9RZZvGxhoKkYJBPoEMCqthvezqBnaVATBU5_jaIFz78muwInpnK5m8UZvroyHLBAV5rgJv2FBiSXGG1cLCzuk2GE5aDU3c2YtuPzcFTxrw" alt=""><figcaption></figcaption></figure>
+
+It doesn’t have to be luxury goods as we shall see below, and could be everyday consumables where quality is necessarily expected and needs to be constantly assured — be it the fresh milk you drink, the cosmetics you put on your face, or the wheels your car runs on, the batteries or power bank for your emergency use. The blockchain can be used to verify the authenticity of these products that a customer purchases. If this is a luxury watch or preloved handbag or family heirloom, the current user can trace all the previous owners right back to the very first owner when he or she acquired it from the manufacturer.
+
+Firstly, a tag (QR, IoT etc) can be assigned to a product, this tag can be used to retrieve the information of the product from the blockchain. Then the product is shipped along with the tag. The tag can be used to verify the product in various points in the supply chain. Since blockchains are immutable, the information retrieved is guaranteed to be unaltered. Using the information, the product’s authenticity can be verified via serial numbers, brand, weight, material, photos etc. Upon receiving the goods, customers can verify the product one last time before accepting it.
+
+Customers will know not to accept any products that are not verifiable. This form of security will create trust between the customer and the brand, which is invaluable, and will become the mainstay of the luxury market in the very near future.

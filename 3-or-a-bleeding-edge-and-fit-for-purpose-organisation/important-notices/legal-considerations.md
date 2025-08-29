@@ -1,0 +1,11 @@
+# Legal Considerations
+
+This White Paper is not endorsed by any government authority. Zetrix Ltd (hereinafter Zetrix) is solely responsible for the contents of this White Paper.
+
+Zetrix has issued native cryptographic coins that serve an integral purpose for its proprietary Zetrix blockchain, referred to as ZETRIX Coins. They are designed with the utility and functionality to operate the Zetrix blockchain and facilitate the implementation of the Zetrix business plan. These digital assets are not viewed by Zetrix as securities.
+
+Given the inconsistent and unharmonised regulatory treatment of distributed ledger technologies and cryptographic coins, Zetrix has conducted the issuance in a responsible and sensible manner. Zetrix strives to comply with all laws and regulations that it is subject to, and be responsive and compliant in the face of any regulatory inquiry. However, Zetrix cannot guarantee the legality of its ZETRIX Coins in every jurisdiction due to the current uneven state of regulation.
+
+Prospective ZETRIX purchasers should read all the text of this White Paper completely and in particular “Risk Warnings” which describes certain risks associated with the purchase of ZETRIX Coins created by the Issuer. Prospective ZETRIX purchasers should not construe the contents of this White Paper as advice; and should be aware that they may be required to bear the financial risk of any subscription of the digital assets for an indefinite period of time.
+
+This White Paper is only available on zetrix.com and may not be redistributed, reproduced or passed on to any other person or for the purpose of publication, in part or in whole, in electronic or physical copy, for any purpose, without the prior written consent of Zetrix. This White Paper, in part or in whole, must not be taken and distributed to any country (where distribution or dissemination of this Whitepaper is prohibited or restricted or unintended) including the People’s Republic of China and the United States of America. Any person who has access to this White Paper is required to inform himself or herself about, observe any relevant legal or regulatory restrictions, and seek all necessary professional advice.
