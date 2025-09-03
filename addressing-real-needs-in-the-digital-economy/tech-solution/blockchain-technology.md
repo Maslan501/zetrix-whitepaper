@@ -1,6 +1,6 @@
 # Blockchain Technology
 
-### Bitcoin & Blockchain
+## Bitcoin & Blockchain
 
 Bitcoin is the very first blockchain in the world. The whitepaper abstract reads: “A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power.”
 
@@ -12,7 +12,7 @@ In layman terms, bitcoin uses a system where every participant holds a copy of a
 
 But in recent years more general naming has been applied to the technology due to differences in implementation, such as distributed ledger technology. Blockchain or distributed ledger technology are all derived from or inspired by the original implementation of bitcoin.
 
-### Ethereum & Smart Contracts
+## Ethereum & Smart Contracts
 
 Ethereum is the next evolution of the blockchain after Bitcoin. The Ethereum whitepaper states that Ethereum is “a blockchain with a built-in Turing-complete programming language, allowing anyone to write smart contracts and decentralised applications where they can create their own arbitrary rules for ownership, transaction formats and state transition functions.”
 

@@ -2,7 +2,7 @@
 
 The Zetrix blockchain primarily aims to serve the RCEP in phases, beginning with active trade partners of China, and then the whole of RCEP. Services that Zetrix will offer to nations and corporations include financial services, provenance and tracing, digital assets, trading, healthcare, etc.
 
-For context, the RCEP (Regional Comprehensive Economic Partnership) is a free trade agreement between 15 countries in the Asia Pacific region, and economic powerhouses such as China, India, Japan, South Korea, Australia and Singapore are part of the partnership. It is the **world’s largest trade bloc by size of GDP**, and is bigger than the European Economic Area (EEA) founded in 1994 and the United States-Canada-Mexico Agreement (USMCA) signed in 2018.
+For context, the RCEP (Regional Comprehensive Economic Partnership) is a free trade agreement between 15 countries in the Asia Pacific region, and economic powerhouses such as China, India, Japan, South Korea, Australia and Singapore are part of the partnership. It is the world’s largest trade bloc by size of GD&#x50;**,** and is bigger than the European Economic Area (EEA) founded in 1994 and the United States-Canada-Mexico Agreement (USMCA) signed in 2018.
 
 According to the Malaysian Ministry of International Trade and Industry (MITI), China is the largest import and export partner with Malaysia, with export at RM 158.6 billion and import at RM 171.18 billion. Zetrix has the opportunity to introduce enhancements to existing products and services for the businesses conducted between China and Malaysia.
 

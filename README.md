@@ -6,7 +6,7 @@ description: Whitepaper Version 1.002
 
 ## Foreword
 
-#### 1 | The Foundation for Industry 4.0 and Web 3.0
+### The Foundation for Industry 4.0 and Web 3.0
 
 Some pundits are calling 2022 as the year of acceleration for enterprise blockchain. The technology has matured well along the Gartner Hype Cycle. While finance has indisputably become the ‘killer application’ of blockchain with mass adoption from Main Street to Wall Street, the industrial side is set to take off next in a big way.
 
@@ -14,7 +14,7 @@ This is because we are starting to see the proof-of-concepts in the last decade 
 
 On the user front, major strides are being made to solve last-mile challenges such as productization, interoperability, and scalability. This is what Zetrix is all about — to bring deployment-friendly and plug-and-play solutions to the market with meaningful benefit and productive impact for businesses. Our mission is to make enterprise blockchain solutions truly accessible!
 
-#### 2| Regional Comprehensive Economic Partnership (RCEP)
+### Regional Comprehensive Economic Partnership (RCEP)
 
 The significance of RCEP to this region’s future, in force on 1 January 2022, cannot be understated. It accounts for almost one third of global GDP, making it the single largest free trade agreement in the world. It is expected to add US$209 billion to world incomes and US$500 billion to world trade by 2030. Based on the renowned US-headquartered Brookings Institution, ASEAN economies are set to be the biggest beneficiary of RCEP which will in turn offset losses from the global trade war.
 
@@ -24,7 +24,7 @@ To the best knowledge of the management body, the information presented in this 
 
 Despite such ambiguities, this management body has vigilantly taken a risk-based approach in our compliance and governance, as a ‘pure play’ tech solutions provider for the industrial applications of blockchain which are non-financial and non-systemic. Our compliance-friendly approach also makes us uniquely ready and well-positioned for ‘public-private’ cooperation, and enables the public sector to leverage and benefit from our private innovation, research and development – which is evident from the government recognition and accolades we have received.
 
-4| A More Sustainable and Greener Alternative
+### A More Sustainable and Greener Alternative
 
 Finally, in our demonstrable commitment to environmental, social and governance (ESG) priorities, Zetrix uses a proprietary Delegated Proof-of-Stake mechanism for its blockchain, which is estimated to consume at least 99.95% less energy than Bitcoin’s Proof-of-Work model. This is but a small and important step we are taking to decarbonize the blockchain industry, complement global net-zero carbon emission goals, and make our collective onchain future more sustainable with lasting impact.
 

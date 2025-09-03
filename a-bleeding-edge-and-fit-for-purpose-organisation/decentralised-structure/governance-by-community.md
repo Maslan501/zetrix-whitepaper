@@ -2,15 +2,15 @@
 
 Token holders can democratically upvote on key strategic decisions to better perform and compete in a fast-developing ecosystem, including the development and maintenance of the Zetrix blockchain and its potential increase in network value, such as:&#x20;
 
-a) Altering the consensus mechanism \
-b) Disbursement of incentives via airdrop \
-c) Base parameters for staking and mining \
-d) Choice of interchain atomic swaps \
-e) Support or integration with other chains \
-f) Recommendation of new dApp assets \
-g) Admission of strategic alliance partners \
-h) Underwriting of certain major risk(s) \
-i) Adjustment to token burning cycles
+* Altering the consensus mechanism&#x20;
+* Disbursement of incentives via airdrop&#x20;
+* Base parameters for staking and mining&#x20;
+* Choice of interchain atomic swaps&#x20;
+* Support or integration with other chains&#x20;
+* Recommendation of new dApp assets&#x20;
+* Admission of strategic alliance partners&#x20;
+* Underwriting of certain major risk(s)&#x20;
+* Adjustment to token burning cycles
 
 Such governance is enabled by one upvote to one ZETRIX Token held, or by creating and distributing governance tokens separately to ZETRIX holders which is typical of Decentralised Finance (DeFi) protocols. ZETRIX Token holders, including permissioned participants and validators, have the power to propose and vote on major new changes or upgrades to the Zetrix network’s protocol. And in light of the history of contentious hard forks on Bitcoin and Ethereum to resolve disputes, Zetrix will strive towards a forkless model.
 
