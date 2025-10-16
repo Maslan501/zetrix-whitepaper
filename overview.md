@@ -2,7 +2,7 @@
 
 Zetrix is focusing on the next generation platform of public Blockchain infrastructure and building a future ecosystem of Ubiquitous Trust Network. Therefore, value will be transferred freely on Blockchain just as information is transferred freely on the Internet today. Lots of decentralised applications, such as digital assets and Internet of things, can be developed and deployed rapidly on the Zetrix network.
 
-In the present where blockchain technology has proliferated with many multi layered solutions and nations around the world are coming to terms with an the benefits but also the risks associated with blockchain and cryptocurrencies, there exists a need to address the regulatory barriers, whether explicit or implicit, to marry real world applications with a tokenised future.
+In the present where blockchain technology has proliferated with many multi layered solutions and nations with the benefits but also the risks associated with blockchain and cryptocurrencies, there exists a need to address the regulatory barriers, whether explicit or implicit, to marry real world applications with a tokenised future.
 
 Zetrix is poised to provide a solution to this conundrum by leveraging a proven technology stack that remains the only instance to be scaled to a national level of adoption and to connect its independent layer-1 solution to the world and other blockchains.
 
@@ -12,7 +12,7 @@ The native tools at any developer’s disposal are encapsulated in an integrated
 
 Zetrix’s delegated proof-of-stake and practical byzantine fault tolerance consensus mechanism affords a throughput of 2,000 transactions per second which is aimed to reach 10,000 transactions are theoretically achievable with the use of child chains.
 
-Zetrix’s strategy for cross border adoption follows the recently ratified 15 member Regional Comprehensive Economic Partnership and leverages the shared economic goals of the RCEP members toward a hyperconnected digital economy. This provides a conducive launchpad into a global network of digital trade connective which will ultimately expand across China’s One Belt One Road initiative.
+Zetrix’s strategy for cross border adoption follows the recently ratified 15 member Regional Comprehensive Economic Partnership and leverages the shared economic goals of the RCEP members toward a hyperconnected digital economy. This provides a conducive launchpad into a global network of digital trade connectiity which will ultimately expand across China’s One Belt One Road initiative.
 
 Zetrix’s cross chain connectivity with other blockchains will be realised via inter-chain technologies to either assimilate or integrate data transfer ensuring the high possible chance of legal and data compliance as countries adopt and enforce new policies to allow blockchain solutions to meld into their incumbent economies.
 

@@ -1,6 +1,6 @@
 # Block Rewards & Total Supply
 
-The total supply of the ZETRIX is 1 billion initially and will approach the cap of 2.1 billion as block rewards are released evenly to the supernode validators. Below is the approximate supply table for the first few halving cycles.
+The initially 1 billion ZETRIX were minted; supply will gradually increase toward the 2.1 billion cap as block rewards are released evenly to the supernode validators. Below is the approximate supply table for the first few halving cycles.
 
 ### Approximate Supply Table
 

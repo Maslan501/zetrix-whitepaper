@@ -1,6 +1,6 @@
 # Asset Tokenization
 
-Tokenizing assets is not just the buzzword for blockchain application but an entire blue ocean. Using smart contracts, an asset can be tokenized on the Ethereum blockchain, into a single title such as in the case of ERC721 non-fungible tokens (NFT), or into smaller fractions such as ERC20 tokens. The same can be done on various other blockchains.
+Tokenizing assets is not just a buzzword but a major emerging application area. Using smart contracts, an asset can be tokenized on the Ethereum blockchain, into a single title such as in the case of ERC721 non-fungible tokens (NFT), or into smaller fractions such as ERC20 tokens. The same can be done on various other blockchains.
 
 These tokens follow a standardised compatible structure which allows them to be traded seamlessly on digital asset exchanges that are generally universal and stay open on 24/7/365 basis. With Zetrix’s regional focus and a common platform supporting RCEP, the cross-border movement of tokenized assets will be boosted significantly, liberalise consumer demand, and open up new asset markets — which are not possible under conventional market structures due to the high friction costs between intermediaries.
 

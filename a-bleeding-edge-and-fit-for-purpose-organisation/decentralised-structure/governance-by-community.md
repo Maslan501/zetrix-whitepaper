@@ -1,6 +1,6 @@
 # Governance by Community
 
-Token holders can democratically upvote on key strategic decisions to better perform and compete in a fast-developing ecosystem, including the development and maintenance of the Zetrix blockchain and its potential increase in network value, such as:&#x20;
+Token holders can vote democratically on key strategic decisions to better perform and compete in a fast-developing ecosystem, including the development and maintenance of the Zetrix blockchain and its potential increase in network value, such as:&#x20;
 
 * Altering the consensus mechanism&#x20;
 * Disbursement of incentives via airdrop&#x20;
@@ -12,7 +12,7 @@ Token holders can democratically upvote on key strategic decisions to better per
 * Underwriting of certain major risk(s)&#x20;
 * Adjustment to token burning cycles
 
-Such governance is enabled by one upvote to one ZETRIX Token held, or by creating and distributing governance tokens separately to ZETRIX holders which is typical of Decentralised Finance (DeFi) protocols. ZETRIX Token holders, including permissioned participants and validators, have the power to propose and vote on major new changes or upgrades to the Zetrix network’s protocol. And in light of the history of contentious hard forks on Bitcoin and Ethereum to resolve disputes, Zetrix will strive towards a forkless model.
+Such governance is enabled by one upvote to one ZETRIX Token held, or by creating and distributing governance tokens separately to ZETRIX holders which is typical of Decentralised Finance (DeFi) protocols. ZETRIX Token holders, including validators and permissioned participants, have the power to propose and vote on major new changes or upgrades to the Zetrix network’s protocol. And in light of the history of contentious hard forks on Bitcoin and Ethereum to resolve disputes, Zetrix will strive toward a forkless model to avoid contentious splits.
 
 The proposed process is as follows:&#x20;
 

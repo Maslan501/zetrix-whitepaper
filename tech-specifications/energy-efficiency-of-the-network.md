@@ -8,12 +8,12 @@ In balancing the factors affecting network efficiency, power consumption and deg
 
 ### Comparison: Energy Efficiency Comparison
 
-|   Consensus Mechanism  | Number of Nodes | Power Consumption | Power Consumption / Day | Power Consumption / Year |
-| :--------------------: | :-------------: | :---------------: | :---------------------: | :----------------------: |
-|       PoW Bitcoin      |    2,235,100    |    37.77 (W/T)    |       0.18 (TWH)        |        65.70 (TWH)       |
-|      PoW Ethereum      |    2,383,701    |     3.43 (W/M)    |        0.08 (TWH)       |        29.20 (TWH)       |
-|      PoS Ethereum      |     247,599     |      0.23 (W)     |       0.0014 (TWH)      |        0.51 (TWH)        |
-| DPOS + zBFT Zetrix     |      21+100     |      0.23 (W)     |     0.00000067 (TWH)    |       0.00024 (TWH)      |
+|   Consensus Mechanism  |    Number of Nodes   | Power Consumption | Power Consumption / Day | Power Consumption / Year |
+| :--------------------: | :------------------: | :---------------: | :---------------------: | :----------------------: |
+|       PoW Bitcoin      |       2,235,100      |    37.77 (W/T)    |       0.18 (TWH)        |        65.70 (TWH)       |
+|      PoW Ethereum      |       2,383,701      |     3.43 (W/M)    |        0.08 (TWH)       |        29.20 (TWH)       |
+|      PoS Ethereum      | 1,015,570 (May 2024) |      0.30 (W)     |        0.00000712       |        0.0026(TWH)       |
+| DPOS + zBFT Zetrix     |        21+100        |      0.23 (W)     |     0.00000067 (TWH)    |       0.00024 (TWH)      |
 
 Note: \
 Number of Nodes: the number of online miners/validators. \

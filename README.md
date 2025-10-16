@@ -32,4 +32,4 @@ Zetrix team
 
 
 
-> #### Click [here](https://docsend.com/view/d2rsr8vd4dsuvwyg) to download the Whitepaper  <a href="#download-whitepaper" id="download-whitepaper"></a>
+> #### Click [here](https://docsend.com/view/nc6m33p93ds9rnsi) to download the Whitepaper  <a href="#download-whitepaper" id="download-whitepaper"></a>

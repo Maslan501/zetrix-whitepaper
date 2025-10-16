@@ -1,6 +1,6 @@
 # Primary Development Categories
 
-Productization is integral for the value capture and commercialization for any novel technology. Blockchain is an infrastructural data technology that is malleable and can serve as the backbone to almost anything that needs to record and store datasets. The list of use cases is numerous and will grow longer and continuously evolve. That being said, let's take a look at a sampler of applications where blockchain technology can have an immediate impact on.
+Productization is integral for the value capture and commercialization for any novel technology. Blockchain is an infrastructural data technology that is malleable and can serve as the backbone to almost anything that needs to record and store datasets. The list of use cases is numerous and will grow longer and continuously evolve. That being said, below is a sample of applications where blockchain technology can have an immediate impact on.
 
 Zetrix view 3 main categories of work to be built upon our core technologies:&#x20;
 

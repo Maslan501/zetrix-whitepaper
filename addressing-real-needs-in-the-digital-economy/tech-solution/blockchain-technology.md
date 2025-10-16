@@ -10,10 +10,10 @@ Bitcoin is the very first blockchain in the world. The whitepaper abstract reads
 
 In layman terms, bitcoin uses a system where every participant holds a copy of all the data in the network, and every transaction has to be approved by the participants before being accepted as part of the data in the network in the form of a block. Every new block of transactions is linked to the previous block like a chain, which gives rise to the name blockchain.&#x20;
 
-But in recent years more general naming has been applied to the technology due to differences in implementation, such as distributed ledger technology. Blockchain or distributed ledger technology are all derived from or inspired by the original implementation of bitcoin.
+But in recent years broader terms such as distributed ledger technology (DLT) are now applied, such as distributed ledger technology. Blockchain or distributed ledger technology are all derived from or inspired by the original implementation of bitcoin.
 
 ## Ethereum & Smart Contracts
 
 Ethereum is the next evolution of the blockchain after Bitcoin. The Ethereum whitepaper states that Ethereum is “a blockchain with a built-in Turing-complete programming language, allowing anyone to write smart contracts and decentralised applications where they can create their own arbitrary rules for ownership, transaction formats and state transition functions.”
 
-To put it simply, Ethereum allows instructions to be uploaded onto the blockchain to be executed. These executions return the same results every time, allowing multiple parties to verify that the code is executed correctly. This allows the blockchain to be used as more than a means to transact money. The use cases for smart contracts are limited only by the imagination.
+To put it simply, Ethereum allows instructions to be uploaded onto the blockchain to be executed. These executions return the same results every time, allowing multiple parties to verify that the code is executed correctly. This allows the blockchain to be used as more than a means to transact money. The use cases for smart contracts are imited only by developer innovation and imagination.
