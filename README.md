@@ -1,8 +1,8 @@
 ---
-description: Whitepaper Version 1.002
+description: Whitepaper Version 1.005
 ---
 
-# Zetrix Whitepaper V1.002
+# Zetrix Whitepaper V1.005
 
 ## The Foundation for Industry 4.0 and Web 3.0
 
