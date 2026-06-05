@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Zetrix Whitepaper V1.002](README.md)
+* [Zetrix Whitepaper V1.005](README.md)
 * [Foreword](foreword.md)
 * [Overview](overview.md)
 

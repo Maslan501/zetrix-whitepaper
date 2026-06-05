@@ -23,6 +23,8 @@ The proposed process is as follows:&#x20;
 5. Under this process, the governance is iterative. The code is continually written or rewritten by the proposer as communication and feedback takes place, and the process repeats until the proposed code is accepted or rejected in full.
 6. Once a proposal moves along for voting, participants can vote by themselves based on their token holdings or delegate their voting rights to other participants within the community.
 
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://lh3.googleusercontent.com/hUZEUeOQcYSsXond-XfavXIi2SQH2Qmbe5Px5JFTx2sli_9EGiH0CWZUB_OtjByIgJBsTEmjvpTtU7dOqskbBbxCf7XU9fFFrlEjaLewsBCH8DIZLxLo6q7SGE-pvdhgfxZa3jqi7qkbW5IE6QKhdN2W5T9Z71r3RgIp8kzBkQncoKhDpQ1ewcXEbJbAfpjDLaBPHg" alt=""><figcaption></figcaption></figure>
 
 The limitations of fully autonomous governance need to be balanced out as they are inherently slow and cannot respond to risks promptly. Also the level of contribution or participation may be lacking, which is being redressed by proper Distribution of Interests (below).

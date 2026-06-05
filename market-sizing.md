@@ -14,6 +14,8 @@ Just the market size for global food traceability alone is USD10 billion. The ma
 
 Adding exigency to this traceability demand is the formation and integration of global value chains (GVCs) that give rise to many of today’s products and services. These GVCs are supply chains with linkages to different stages of production across countries and are heavily reliant on international trade, as the production of a final good may require that intermediate inputs or intermediate goods cross a national border several times. In RCEP countries, complex value chains (where factor content crosses a national border at least twice) are relatively more important than simple value chains, with higher value added linkages. Over 50% of the value added created through GVCs is created through these complex chains.
 
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://lh4.googleusercontent.com/qwshup7E9HPQe0qINlqlLQE8VpqUMQ1cdIXYcC4H99TRtYJlr9rBHbZnjZ6XuX_TZe7ENj_Y5ag4M1J9x0X4PQjinNdOGdKSRNJfFMPJOC9bl9MSWdFpca_ntkvuRRZTJA3O2Vdpulrke5_zTZ7PIpAHyeOtiCfr-GARaxa3WX68vNUcU2HQv6gXzv5vAmzrAlPeaQ" alt=""><figcaption></figcaption></figure>
 
 The value of the blockchain extends beyond merely serving addressable market needs, as many are not defined or have not arisen yet in the new digital economy. It creates new business models with new direct-to-buyer revenue streams, operational efficiency by process automation and removal of intermediaries, risk mitigation through tracing and authentication along supply chains, and social impact from democratic decision-making and ethical sourcing.
