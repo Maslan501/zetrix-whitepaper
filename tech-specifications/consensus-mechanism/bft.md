@@ -8,6 +8,4 @@ The consensus algorithm will divide the future blocks into multiple time slices,
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh6.googleusercontent.com/EBILvgQHxYm78b6SY3Nz9tSxK5DbOHdy7E_VJpVRNYYsthSoZzwOLf4jQ8fXYk5eWtfAK9x4pMSN_beI0kWh9z8EsteRBrv_ENbY3ACwY2hleTzQ75h2OZwVL0wvNlxXeWvw1-b4nF-bf9baSNX5WaeChOb_9FgnUS1-KuuSr543PQWuTwZ5FahrNVueYXUOyl3Srg" alt=""><figcaption></figcaption></figure>
-
 zBFT in Zetrix is the algorithm that the nodes use to reach finality even if there are certain numbers of other nodes that are faulty. This ensures that Zetrix will remain available for users at all times and minimise the amount of service interruptions.

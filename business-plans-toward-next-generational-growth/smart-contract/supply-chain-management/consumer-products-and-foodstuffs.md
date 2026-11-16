@@ -4,7 +4,7 @@ Premium foods such as birds' nest, fine wine, wagyu-graded beef, craft beer, or 
 
 Foodstuffs are also sensitive to storage conditions. Let us take the durian as an example. If durians are not chilled properly, it will rot and go bad really quickly. Malaysia exports $34 million as of 2021 worth of durians and China is one of the largest importers of Malaysian durian. It takes a week or two for durians to reach their destination, thereby posing a challenge in terms of storage conditions.
 
-<figure><img src="https://lh3.googleusercontent.com/06Ejrt9_O09ypEAATqi3lIwPACmlPT8Cu2MbFi5mgYqamJaj3ovOJDF2otPFfnRkgC7bb1_4esU9DvJ4IE7TNMDfSfRjBBqAKYmVJjQOv9uR9CPPde4eq7R7KArv9CvYX9GAFM4Xq1U5VX11ucW58I_eO3rkSmnLqMYAmpeGlxjEnY4jZs2wuaJV1fVlu_qGxId0nw" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/figure-11.png" alt=""><figcaption></figcaption></figure>
 
 IoT devices are used to track the environmental conditions of the durian, and anti-tamper seals protect the fruits from counterfeiting attempts. A record for the durian will be created on the blockchain containing data such as weight, species, farm location, photo snapshot, etc. And at every stage of the supply chain, the data collected by the devices will be uploaded to the blockchain.
 

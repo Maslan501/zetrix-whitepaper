@@ -8,4 +8,4 @@ Feedback from vaccinated individuals can also be recorded, subject to privacy re
 
 Stakeholders in and out of the supply chain can monitor the data being collected about the vaccines. With these data in hand, they will be able to make more informed decisions relating to the deployment of the vaccines. Blockchain traceability can drastically improve the efficiency of administration of the vaccine by the stakeholders, reducing the cases of undersupply and oversupply in different geographical locations.
 
-<figure><img src="https://lh4.googleusercontent.com/VF6lOnM_V3AQYCg8t96TbxCqPKH7i1JOTHqg5hDYJAbjTaahHmeO9IIjC0lHZIQ0pab9hZUirAr3Wke0p9HEdTwFG6j1YryvVYQ7Pj3TQY6rxVy4DLn3yPinX-xS2rl6wryfPhSL5pmzGrtBII_6Gh2qSxinC-FBcdE7YSHvIUxMfeE_bH1SVByFSsc2mO1AgmyLqA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/figure-13.png" alt=""><figcaption></figcaption></figure>
