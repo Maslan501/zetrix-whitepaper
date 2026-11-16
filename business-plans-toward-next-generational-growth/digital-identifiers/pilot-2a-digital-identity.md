@@ -6,5 +6,5 @@ Besides that, blockchain-based mobile identity solutions support vulnerable indi
 
 Moreover, obtaining an identity is crucial to gain access to the existing financial system. Public and private sectors worldwide understand the need to develop comprehensive ID programs, which will enable access to financial services and other services. Furthermore, e-commerce and IoT have shown the need for verifiable digital identities not only for people but also for legal commodities. Therefore, the interoperability of digital IDs across borders can accelerate economic integration and create opportunities for new markets. For example, the design of Thailand's digital ID platform is to support other ASEAN nationals where they can authenticate themselves for online transactions with businesses and government agencies based in Thailand.
 
-<figure><img src="https://lh5.googleusercontent.com/1UOHrBtt8Ig6QaaBdau6AL3T542s-_-w2lLhEdfxDKb9avoPRwScsGEWWA9v6KRUUa2C1_kMEZFWVj2tPgYlHsQng8zybe92VTKvLq-2WGsEOESxT72lQx_bhk0mIaoU5i3ZOfZwBwNF1F7iHZwOP-CpDQ-rF0T6NtpYHR0TVjyzjkXsX4phB63IvjGRAFa8U5ibBg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/figure-16.png" alt=""><figcaption></figcaption></figure>
 

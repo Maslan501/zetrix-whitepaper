@@ -8,4 +8,4 @@ Zetrix can be used as an infrastructure to build a smart contract foreign labour
 
 Using a digital identity and a work contract, the employer can pay the worker via a blockchain wallet. The employer will be able to track the work hours of the worker, and pay the worker fairly. The worker also enjoys the perks of being able to utilise the blockchain to send money back home in the matter of seconds, without all the hassle and fees. Employers can easily prove that they are paying livable wages to their workers due to the transparency and the immutability of the blockchain.
 
-<figure><img src="https://lh3.googleusercontent.com/I5TCJ08APtiT3QLg382YTiJh6KI_FET_Ic10YbI1bTP1VBq-Fdg8ZPjMofTyhSAvkoCcMJZ0KqejoZpFMiq70TM00CfzUvkZnsuk0AiQ7lOiFiVCteppcp38mktntno0-Tt0aQLGwFlt1ZNeb5w2PjY_MzPpXRro9ZW7Gp3cg5p61kQcLsg9pwSZ7HOdUe7kIDVBqQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/figure-12.png" alt=""><figcaption></figcaption></figure>

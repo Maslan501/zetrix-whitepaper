@@ -8,6 +8,6 @@ Traditionally, there are considerably high hurdles and learning curves associate
 
 Other quality of life tools include blockchain explorers and network health monitor and trust verification tools. These items round up the Zetrix ecosystem as an all encompassing blockchain project.
 
-<figure><img src="https://lh6.googleusercontent.com/ghct4TJHJl0hhnct80SRWKyd56oEpSiWaCGMS866xUIcOLhV94b9l3qWJMogbzUQ1EJKGyebirEYr9sJ1GrMBcSMoVQcHEwNAk_gbZ-ZojqDzAZnMLD2xenzCoA7crN4exB4_7ZH1l6ScH8Z7YMScNhDELtif-twCriO0bZv4wPdaMlCR5cO9_mLMs2sOAXfHeBPYQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/figure-5.png" alt=""><figcaption></figcaption></figure>
 
 All these allows developers to spend less time learning and more time creating, which coincidentally reduces the costs related to acquiring new technologies.
