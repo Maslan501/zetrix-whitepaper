@@ -25,8 +25,6 @@ The proposed process is as follows:&#x20;
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh3.googleusercontent.com/hUZEUeOQcYSsXond-XfavXIi2SQH2Qmbe5Px5JFTx2sli_9EGiH0CWZUB_OtjByIgJBsTEmjvpTtU7dOqskbBbxCf7XU9fFFrlEjaLewsBCH8DIZLxLo6q7SGE-pvdhgfxZa3jqi7qkbW5IE6QKhdN2W5T9Z71r3RgIp8kzBkQncoKhDpQ1ewcXEbJbAfpjDLaBPHg" alt=""><figcaption></figcaption></figure>
-
 The limitations of fully autonomous governance need to be balanced out as they are inherently slow and cannot respond to risks promptly. Also the level of contribution or participation may be lacking, which is being redressed by proper Distribution of Interests (below).
 
 Therefore, most projects use an administrative key as a fail-safe switch, as part of its core security and recovery modules. If anything goes wrong — such as a bug or hack — an admin key can be used to shut the network down thereby protecting the protocol from further exploits or disruptions. A multi-signature backdoor wallet may also be required to bypass the need for a proposal in case of emergencies. Such a system is needed while the ecosystem is still evolving, and with real values at stake, speed could be extremely necessary to tackle urgent threats.

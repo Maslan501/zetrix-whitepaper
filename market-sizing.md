@@ -16,6 +16,4 @@ Adding exigency to this traceability demand is the formation and integration of 
 
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh4.googleusercontent.com/qwshup7E9HPQe0qINlqlLQE8VpqUMQ1cdIXYcC4H99TRtYJlr9rBHbZnjZ6XuX_TZe7ENj_Y5ag4M1J9x0X4PQjinNdOGdKSRNJfFMPJOC9bl9MSWdFpca_ntkvuRRZTJA3O2Vdpulrke5_zTZ7PIpAHyeOtiCfr-GARaxa3WX68vNUcU2HQv6gXzv5vAmzrAlPeaQ" alt=""><figcaption></figcaption></figure>
-
 The value of the blockchain extends beyond merely serving addressable market needs, as many are not defined or have not arisen yet in the new digital economy. It creates new business models with new direct-to-buyer revenue streams, operational efficiency by process automation and removal of intermediaries, risk mitigation through tracing and authentication along supply chains, and social impact from democratic decision-making and ethical sourcing.
